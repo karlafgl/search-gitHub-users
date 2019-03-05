@@ -5,4 +5,4 @@ Just to simple search app that connects with GitHub API. Built in HTML, bootstra
 https://karlafgl.github.io/search-gitHub-users/.
 
 # Preview
-![](src/docs/screencapture.png)
+![](preview.png)
